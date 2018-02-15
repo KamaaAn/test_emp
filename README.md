@@ -1,6 +1,6 @@
 # Okienko modalne + Data picker
 
-## Zacznij
+## Zacznij od pobrania plików i
 
 Wpisz w terminal:
 
